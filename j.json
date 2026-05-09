@@ -1,0 +1,14 @@
+{
+  "matching_urls": [
+    "#/wallet/Recharge",
+    "#/home/AllLotteryGames/WinGo?id=1",
+    "#/saasLottery/TrxWinGo"
+  ],
+  "deposit_url": "https://www.92pak11.online/#/wallet",
+  "login_url": "https://www.92pak11.online/#/login",
+  "register_url": "https://92pak11.online/#/register?invitationCode=4851792257846",
+  "telegram_url": "https://whatsapp.com/channel/0029VbD1J6wLtOjGVlvDQd2R",
+  "home_url": "https://92pak11.online/#/",
+  "minimum_deposit": 1000,
+  "minimum_deposit_number": 1000
+}
